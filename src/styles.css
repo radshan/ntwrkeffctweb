@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .link-card {
+    @apply rounded-2xl shadow-md overflow-hidden relative h-auto;
+  }
+
+  .link-card:hover {
+    @apply shadow-lg;
+  }
+
+  .link-img {
+    @apply absolute inset-0 object-cover h-full w-full;
+  }
+
+  .link-bg {
+    @apply absolute inset-0 bg-gray-600 bg-opacity-80;
+  }
+}
