@@ -23,15 +23,15 @@ const links = {
   },
 
   link4: {
-    linkName: "This works",
-    linkURL: "https://google.co.in",
-    linkDesc: "Amazing",
+    linkName: "Isaac Asimov on superstition, religion",
+    linkURL: "https://youtu.be/HKQQAv5svkk",
+    linkDesc: "A YouTube video with his thoughts.",
   },
 
   link5: {
-    linkName: "Santosh Rai",
-    linkURL: "https://google.co.in/",
-    linkDesc: "Hello this is Santosh Rai's card",
+    linkName: "Neuralink and the brain's future",
+    linkURL: "https://waitbutwhy.com/2017/04/neuralink.html",
+    linkDesc: "An amazing post by Tim Urban.",
   },
 };
 
