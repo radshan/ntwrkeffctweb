@@ -33,6 +33,18 @@ const links = {
     linkURL: "https://waitbutwhy.com/2017/04/neuralink.html",
     linkDesc: "An amazing post by Tim Urban.",
   },
+  
+  link6: {
+    linkName: "Tencent: the ultimate outsider",
+    linkURL: "https://notboring.substack.com/p/tencent-the-ultimate-outsider",
+    linkDesc: "Excellent piece on Tencent by Packy McCormick"
+  },
+  
+  link7: {
+    linkName: "The Great Online Game",
+    linkURL: "https://www.notboring.co/p/the-great-online-game",
+    linkDesc: "As soon as you connect to the Internet, you play the Great Online Game."
+  },
 };
 
 const divMain = document.getElementById("div-main");
