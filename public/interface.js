@@ -105,6 +105,108 @@ const links = {
     linkURL: "https://open.spotify.com/episode/5ZXzLELW1489aCjUPHjTO4?si=cSw9xDxiR1WkoglJm09ANw&dl_branch=1&nd=1",
     linkDesc: "Amazing podcast episode on Ethereum."
   },
+  
+  link18: {
+    linkName: "Buffet on Diversification",
+    linkURL: "https://drive.google.com/file/d/1DGrB8gYRpt8Sp5UYCmk1i-k8gSeY0pqg/view",
+    linkDesc: ""
+  },
+  
+  link19: {
+    linkName: "Effective Altruism",
+    linkURL: "https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/",
+    linkDesc: "A website dedicated to the concept of effective altruism."
+  },
+  
+  link20: {
+    linkName: "Business Essays",
+    linkURL: "https://kscarrott.com/biz-essays/",
+    linkDesc: "A list of essays that I found on a personal blog."
+  },
+  
+  link21: {
+    linkName: "Gwern.net",
+    linkURL: "https://www.gwern.net/",
+    linkDesc: "Gwern Branwen's personal blog. Find stuff on psychology, statistics, and technology."
+  },
+  
+  link22: {
+    linkName: "Assorted Quotes",
+    linkURL: "http://mnielsen.github.io/notes/quotes/quotes.html",
+    linkDesc: "Contains quotes by all sorts of individuals across various disciplines."
+  },
+  
+  link23: {
+    linkName: "Blog of Derek Sivers",
+    linkURL: "https://sive.rs/",
+    linkDesc: "Pretty self explanatory. Derek has a lot of cool content!"
+  },
+  
+  link24: {
+    linkName: "Writings by Max Hodak",
+    linkURL: "https://maxhodak.com/writings/",
+    linkDesc: "Max is the co-founder of Neuralink."
+  },
+  
+  link25: {
+    linkName: "Pmarchive",
+    linkURL: "https://pmarchive.com/",
+    linkDesc: "An archive of Marc Andreessen's blog."
+  },
+  
+  link26: {
+    linkName: "The Architecture of Tomorrow: An Interview with Ben Horowitz",
+    linkURL: "https://sotonye.substack.com/p/the-architecture-of-tomorrow-an-interview?utm_campaign=post&utm_medium=web&utm_source=copy",
+    linkDesc: "Influence of bits on the world of atoms, identifying people worth trusting, origin of joy, decoupling of the American Dream from the university. Ben goes deep in this interview."
+  },
+  
+  link27: {
+    linkName: "Creating an Environment",
+    linkURL: "https://paulskallas.substack.com/p/creating-an-environment-part-3?utm_campaign=post&utm_medium=web&utm_source=copy",
+    linkDesc: "Paul Skallas on addiction, abundance, and distraction."
+  },
+  
+  link28: {
+    linkName: "Blip Blop",
+    linkURL: "https://eater.net/8bit",
+    linkDesc: "Build an 8-bit computer from scratch!"
+  },
+  
+  link29: {
+    linkName: "Ultimate Deliberate Practice Guide",
+    linkURL: "https://fs.blog/2021/04/deliberate-practice-guide/",
+    linkDesc: "A blog by Farnam Street on mastering the art of deliberate practice."
+  },
+  
+  link30: {
+    linkName: "Meaningness",
+    linkURL: "https://meaningness.com",
+    linkDesc: "Better ways of thinking, feeling, and acting."
+  },
+  
+  link31: {
+    linkName: "Book summaries",
+    linkURL: "https://blas.com",
+    linkDesc: "Blas Moros has some really nice book summaries! Great rabbit hole."
+  },
+  
+  link32: {
+    linkName: "Fundamentals of Electrical Engineering",
+    linkURL: "https://youtube.com/playlist?list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K",
+    linkDesc: "A playlist that has videos on electrical engineering basics."
+  },
+  
+  link33: {
+    linkName: "Technovelgy",
+    linkURL: "http://technovelgy.com",
+    linkDesc: "Track ideas from Science Fiction that are close to becoming reality"
+  },
+  
+  link34: {
+    linkName: "Patrick Collison interview",
+    linkURL: "https://noahpinion.substack.com/p/interview-patrick-collison-co-founder",
+    linkDesc: "Patrick is the billionaire founder of Stripe."
+  },
 };
 
 const divMain = document.getElementById("div-main");
