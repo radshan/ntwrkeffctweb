@@ -207,6 +207,12 @@ const links = {
     linkURL: "https://noahpinion.substack.com/p/interview-patrick-collison-co-founder",
     linkDesc: "Patrick is the billionaire founder of Stripe."
   },
+  
+  link35: {
+    linkName: "Ishan was here",
+    linkURL: "https://noahpinion.substack.com/p/interview-patrick-collison-co-founder",
+    linkDesc: "Showing my code to krish"
+  },
 };
 
 const divMain = document.getElementById("div-main");
